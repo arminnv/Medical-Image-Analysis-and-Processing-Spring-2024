@@ -4,13 +4,12 @@ This repository contains the coursework materials for the graduate course "Medic
 
 ## Repository Structure
 
-- `final/`: Final exam Solutions and materials
-- `Problem set 1/`: Solutions and materials for Problem Set 1
-- `Problem set 2/`: Solutions and materials for Problem Set 2
-- `Problem set 3/`: Solutions and materials for Problem Set 3
-- `Problem set 4/`: Solutions and materials for Problem Set 4
-- `Project/`: Course project materials and latex report
-- `Course project report`: Report for the final course project
+- `HW1/`: 
+- `HW2/`: 
+- `HW3/`: 
+- `HW4/`: Gaussian Mixture Models, 
+- `HW5/`: 
+
 
 ## Syllabus
 
