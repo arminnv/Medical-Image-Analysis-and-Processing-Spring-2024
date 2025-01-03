@@ -60,4 +60,3 @@ This repository contains the coursework materials for the graduate course "Medic
 11. Medical Image Segmentation Introduction and Pixel Classification
    - Maximum Likelihood Estimation (MLE)
     
-For more details, please refer to the project report in the `Project/` directory.
