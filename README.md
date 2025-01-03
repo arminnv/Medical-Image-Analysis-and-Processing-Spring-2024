@@ -39,8 +39,8 @@ This repository contains the coursework materials for the graduate course "Medic
    -  Guided Image Filtering (GIF)
    -  BM3D
 8. Image Noise Filtering
-    Total Variation Definition
-    Calculus of variation (Variational Calculus)
+   - Total Variation Definition
+   - Calculus of variation (Variational Calculus)
    - Constrained Optimization
    - Total Variation Denoising (ROF Approach)
    - Numerical Implementation
