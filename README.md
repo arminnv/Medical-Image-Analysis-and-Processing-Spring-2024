@@ -51,12 +51,12 @@ This repository contains the coursework materials for the graduate course "Medic
    - Inhomogeneous Nonlinear Diffusion Filtering
    - Diffusion Anisotropic Filtering
 10. Sparse Denoising
-   - Norm Definition
-   - Sparse Approximation
-   - Dictionary
-   - Sparse Image Denoising
-   - Low Rank Representation and Denoising
-   - Deep Denoising
+      - Norm Definition
+      - Sparse Approximation
+      - Dictionary
+      - Sparse Image Denoising
+      - Low Rank Representation and Denoising
+      - Deep Denoising
 11. Medical Image Segmentation Introduction and Pixel Classification
-   - Maximum Likelihood Estimation (MLE)
+      - Maximum Likelihood Estimation (MLE)
     
