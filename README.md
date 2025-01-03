@@ -4,11 +4,11 @@ This repository contains the coursework materials for the graduate course "Medic
 
 ## Repository Structure
 
-- `HW1/`: 
-- `HW2/`: 
-- `HW3/`: 
-- `HW4/`: Gaussian Mixture Models, 
-- `HW5/`: 
+- `MIAP_HW1/`: 
+- `MIAP_HW2/`: 
+- `MIAP_HW3/`: 
+- `MIAP_HW4/`: Gaussian Mixture Models, 
+- `MIAP_HW5/`: 
 
 
 ## Syllabus
