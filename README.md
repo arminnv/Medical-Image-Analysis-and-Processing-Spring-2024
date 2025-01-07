@@ -4,11 +4,11 @@ This repository contains the coursework materials for the graduate course "Medic
 
 ## Repository Structure
 
-- `MIAP_HW1/`: 
-- `MIAP_HW2/`: 
-- `MIAP_HW3/`: 
-- `MIAP_HW4/`: Gaussian Mixture Models, 
-- `MIAP_HW5/`: 
+- `MIAP_HW1/`: Image Denoising and Enhancement, Wiener Filter
+- `MIAP_HW2/`: Image Denoising and Enhancement, 
+- `MIAP_HW3/`: Isotropic and Anisotropic Diffusion Filters
+- `MIAP_HW4/`: Image Segmentation, Gaussian Mixture Models, Contour-Based Methods
+- `MIAP_HW5/`: Image Registration and Fusion, Deep Registration
 
 
 ## Syllabus
